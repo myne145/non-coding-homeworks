@@ -1,0 +1,29 @@
+ZAD 1 (więcej niż 1 poprawna odpowiedź)
+Liczba 321 (system 10) to inaczej:
+
+a) 101000001 (s.2)
+b) 401 (s.8)
+c) 141 (s.16)
+d) 100000101
+
+ZAD 2 (P/F)
+a) System operacyjny może znajdować się tylko na dysku twardym. [P 	F]
+b) Sieć o masce podsieci 255.255.0.0 maksymalnie może pomieścić 65534 urządzenia. [P  F]
+
+ZAD 3 (?)
+Jaki typ licenji pozwala na podgląd i modyfikację kodu źródłowego bez żadnych konsekwencji prawnych?
+Typ Licencji: ___________
+
+ZAD 4
+Rozwiń skrót SSL: ________________________
+Rozwiń skrót DNS: ________________________
+Rozwiń skrót LAN: ________________________
+
+ZAD 5
+Wymień główną różnicę pomiędzy protokołem TCP a UDP:
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
