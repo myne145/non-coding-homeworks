@@ -1,0 +1,30 @@
+ZAD 1
+	2 punkty - zaznaczone odpowiedzi a, c
+	1 punkt - zaznaczona odpowiedź a lub c + inna odpowiedź
+	0 punktów - nie zaznaczona ani odpowiedź a, ani c
+
+ZAD 2
+	1 punkt - FP
+	0 punktów - niepoprawna kombinacja odpowiedzi
+
+ZAD 3
+	1 punkt - akceptowalne GNU/GPL, GNU, GPL, MIT, oraz inne podobne licensje typu Open Source
+	0 punktów - podanie licencji, która nie pozwala na wgląd do kodu źródłowego bez konsekwencji
+
+ZAD 4
+	Poprawna odpowiedź:
+		SSL: Secure Sockets Layer
+		DNS: Domain Name System
+		LAN: Local Area Network
+	3 punkty - wszytskie odpowiedzi poprawne
+	2 punkty - dwie odpowiedzi poprawne
+	1 punkt - jedna odpowiedź poprawna
+	0 punktów - wszytskie odpowiedzi niepoprawne
+
+ZAD 5
+	Poprawna odpowiedź:
+		"TCP wymaga ciągle otwartego połączenia, lub żeby było ono otwierane i zamykane po wysyłaniu danych (tzw. handshake).Oznacza to że przed każdym transferem danych wysyła on zapytanie czy pliki zostały odebrane/wysłane.
+		W przeciwieństwie do TCP, UDP nie posiada takich wymagań, przez co jest on szybszy, jednak bardziej ryzykowny"
+	2 punkty - podanie prawidłowej(podobnej do powyższej) odpowiedzi
+	1 punkt - podanie niekompletnej odpowiedzi
+	0 punktów - zła odpowiedź
